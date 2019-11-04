@@ -5,5 +5,4 @@ Cargo.lock
 .vscode
 .idea
 .DS_Store
-/pkg
 node_modules
